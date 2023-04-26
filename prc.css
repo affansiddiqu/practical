@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.nav-container{
+    background-color: teal;
+  }
+
+ .nav-item a{
+      color: white;
+  }
